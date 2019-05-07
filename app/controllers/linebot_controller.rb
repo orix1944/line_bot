@@ -1,4 +1,4 @@
-class LineController < ApplicationController
+class LinebotController < ApplicationController
   require 'line/bot'
   require 'wikipedia'
 
